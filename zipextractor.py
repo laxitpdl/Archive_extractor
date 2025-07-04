@@ -1,7 +1,3 @@
-
-
-
-
 import zipfile
 
 def extract_archive(archivepath, dest_dir):
